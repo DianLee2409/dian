@@ -355,7 +355,7 @@
         height: 121.5px;
         border-radius: 4px;
         border: none;
-        margin-bottom: 10px;
+        margin-bottom: 6px;
     }
 
     .section3-upper .box1 {
@@ -410,7 +410,7 @@
     .section3-lower .pc-box {
         display: flex;
         justify-content: space-between;
-        margin-top: 10px;
+        margin-top: 6px;
     }
 
     .section3-lower .box-under {
@@ -419,7 +419,7 @@
     }
 
     .section3-lower .box3 {
-        width: 155.721px;
+        width: 154.721px;
         height: 85.033px;
         background-image: linear-gradient(0, rgba(34, 34, 191, 0.5), rgba(34, 34, 191, 0.5)), 
                           url(./img/imagine15.webp);
@@ -432,7 +432,7 @@
                           url(./img/imagine15.webp);
     }
     .section3-lower .box4 {
-        width: 155.721px;
+        width: 154.721px;
         height: 85.033px;
         margin-right: 3px;
         background-image: linear-gradient(0, rgba(34, 34, 191, 0.5), rgba(34, 34, 191, 0.5)), 
